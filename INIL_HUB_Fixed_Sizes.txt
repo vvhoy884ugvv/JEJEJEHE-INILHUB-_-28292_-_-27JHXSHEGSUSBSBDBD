@@ -261,7 +261,7 @@ ElementsHolder_1.BackgroundTransparency = 1
 ElementsHolder_1.BorderColor3 = Color3.fromRGB(0,0,0)
 ElementsHolder_1.BorderSizePixel = 0
 ElementsHolder_1.Position = UDim2.new(0.305882365, 0,0.1179941, 0)
-ElementsHolder_1.Size = UDim2.new(0, 354,0, 299)
+ElementsHolder_1.Size = UDim2.new(0, 300,0, 200)
 
 Elements_1.Name = "Elements"
 Elements_1.Parent = ElementsHolder_1
